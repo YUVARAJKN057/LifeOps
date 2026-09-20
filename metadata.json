@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Movement Academy",
+  "description": "Interactive full-stack 3D exercise & health platform featuring demographic workout categories (kids, seniors, general health, posture & spine, cardio & skipping), procedural 3D mannequin simulators, AI voice coach narration, and database tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
